@@ -35,7 +35,7 @@ Tall scan of a balanced amplifier schematic whose title block is on the side.
 - **Words (OCR):** 10 in 9 lines: 19 · 843 · 824 · 3483 · 87 · 844 873 35 · '82 · 38 · 88 22
 - **Wiring (first pass):** 93 connected wire groups from 757 runs, 4 dotted junctions; labelled ends: 127 mm → 88 22; 115 mm → 824, 87, '82; 101 mm → 3483, 844 873, 35; 77 mm → 88 22; 53 mm → 87, '82
 
-Every curve, box, word and wire group: [1971 - 801-02-001 - SWITCHER ISOLATION AMPLIFIER - ISS 2 (traced).json](../SCHEMATICS/1971%20-%20801-02-001%20-%20SWITCHER%20ISOLATION%20AMPLIFIER%20-%20ISS%202%20(traced).json) (the CAD file: `1971 - 801-02-001 - SWITCHER ISOLATION AMPLIFIER - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 801-02-001 - SWITCHER ISOLATION AMPLIFIER - ISS 2 (traced).json](../SCHEMATICS/1971%20-%20801-02-001%20-%20SWITCHER%20ISOLATION%20AMPLIFIER%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1971 - 801-02-001 - SWITCHER ISOLATION AMPLIFIER - ISS 2 (traced).dxf`).
 
 ## Full text
 
