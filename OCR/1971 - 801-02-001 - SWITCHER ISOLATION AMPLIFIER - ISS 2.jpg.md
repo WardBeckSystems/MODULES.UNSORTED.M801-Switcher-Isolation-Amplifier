@@ -1,5 +1,5 @@
 # 1971 - 801-02-001 - SWITCHER ISOLATION AMPLIFIER - ISS 2.jpg
-Wiki page: [M801](../../../../PAGES/M801.md)
+Wiki page: [M801](../)
 
 
 - **Year:** 1971 (title block date)
